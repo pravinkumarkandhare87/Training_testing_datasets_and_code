@@ -9,4 +9,4 @@
   Similarly, the seven (x,y) location on each trajectory is stored in a row of csv file for each testing set in above format.
   Total numbers of 100,000 trajectories are present in each testing set LTD, CTD, PTD and MTD.
   
-  The MATLAB code files to generate these set are present in "Code_to_generate_training _and_testing_datasets" folder 
+  The MATLAB code files to generate these sets are present in "Code_to_generate_training _and_testing_datasets" folder 
